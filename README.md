@@ -1,4 +1,6 @@
 # Assistant accountant 
 
-In this application, we writing in window telegram, our dates for writing in file , then find at the google cloud.
+In this application, using telegrams of the bot, we write down the set values,
+then they are transferred to google drive, and there they are transferred to 
+excel format, and then, if desired, we can download or print them.
 
