@@ -1,7 +1,7 @@
 package EditDocument;
 
 import KeyboardMarkup.MessageKeyboard;
-import TelegramConfiguration.Bot;
+import telegramConfiguration.Bot;
 
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
