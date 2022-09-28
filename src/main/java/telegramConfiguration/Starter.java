@@ -1,5 +1,4 @@
-package TelegramConfiguration;
-
+package telegramConfiguration;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.meta.TelegramBotsApi;

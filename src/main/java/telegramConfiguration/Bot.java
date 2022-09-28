@@ -1,4 +1,4 @@
-package TelegramConfiguration;
+package telegramConfiguration;
 import CheckSymbol.CheckLanguagesSymbal;
 import Documentation.AddFileDocument;
 import EditDocument.EditDocument;
@@ -17,8 +17,8 @@ public class Bot extends TelegramLongPollingBot{
     AddFileDocument transf = new AddFileDocument();
     DriveQuickstart go = new DriveQuickstart();
 
-    private static final String TOKEN = "1708607859:AAH6OGOyCHWXu7Is5OPCJWkCVTfud6h3hAg";
-    private static final String USERNAME = "belakryly_bot";
+    private static final String TOKEN = "unknown";
+    private static final String USERNAME = "belakryly-vd";
 
     public String getBotToken() {
         return TOKEN;
