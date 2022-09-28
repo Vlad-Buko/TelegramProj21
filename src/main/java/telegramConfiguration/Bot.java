@@ -1,10 +1,10 @@
 package telegramConfiguration;
-import CheckSymbol.CheckLanguagesSymbal;
-import Documentation.AddFileDocument;
-import EditDocument.EditDocument;
-import GoogleCloud.DriveQuickstart;
-import KeyboardMarkup.MessageKeyboard;
-import Values.Steps;
+import checkSymbol.CheckLanguagesSymbal;
+import documentation.AddFileDocument;
+import editDocumentPdf.EditDocument;
+import googleCloud.DriveQuickstart;
+import keyboardMarkup.MessageKeyboard;
+import values.Steps;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;

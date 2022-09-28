@@ -1,6 +1,6 @@
-package CheckSymbol;
+package checkSymbol;
 
-import EditDocument.EditDocument;
+import editDocumentPdf.EditDocument;
 import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class CheckLanguagesSymbal {

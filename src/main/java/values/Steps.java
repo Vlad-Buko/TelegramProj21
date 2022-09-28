@@ -1,4 +1,4 @@
-package Values;
+package values;
 
 public enum Steps {
 

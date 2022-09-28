@@ -1,4 +1,4 @@
-package Documentation;
+package documentation;
 import java.io.*;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;

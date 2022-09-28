@@ -1,6 +1,6 @@
-package EditDocument;
+package editDocumentPdf;
 
-import KeyboardMarkup.MessageKeyboard;
+import keyboardMarkup.MessageKeyboard;
 import telegramConfiguration.Bot;
 
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
